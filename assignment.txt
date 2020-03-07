@@ -23,6 +23,15 @@ printf("Enter two numbers=");
 scanf("%d%d",&a,&b);
 }
 
+void display()
+{
+int sum;
+sum=a+b;
+printf("sum=%d",sum);
+}
+
+
+
 
 
 
