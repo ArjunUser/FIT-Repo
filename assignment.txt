@@ -9,3 +9,5 @@ Program: BESE (Day)
 int a,b;
 void input();
 void sum();
+void main()
+{
