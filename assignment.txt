@@ -11,3 +11,7 @@ void input();
 void sum();
 void main()
 {
+input();
+sum();
+getch();
+}
